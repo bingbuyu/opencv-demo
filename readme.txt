@@ -1,1 +1,1 @@
-I am laerning OpenCV and image processing.
+I am laerning OpenCV and image processing.ML and CNN will follow.
